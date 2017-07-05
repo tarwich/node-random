@@ -1,0 +1,10 @@
+# -----[ Application ]---------------------------------------------
+node_modules
+
+# -----[ Metadata ]---------------------------------------------
+# macOS
+.DS_Store
+# JetBrains (IDE)
+.idea
+# VS Code (IDE)
+.vscode

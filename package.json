@@ -1,0 +1,20 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "A random data generator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-tarwich": "github:tarwich/eslint-config-tarwich#1.5.1"
+  },
+  "scripts": {},
+  "keywords": [
+    "random",
+    "generator"
+  ],
+  "author": "Samuel Dillow",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tarwich/node-random"
+  }
+}
