@@ -1,5 +1,6 @@
 box: node:8
 build:
   steps:
-    name: Lint code
-    code: ./node_modules/.bin/eslint index.js
+    - script:
+      name: Lint code
+      code: ./node_modules/.bin/eslint index.js
