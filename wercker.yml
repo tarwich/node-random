@@ -1,3 +1,4 @@
+box: node:8
 build:
   steps:
     name: Lint code
