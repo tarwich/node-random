@@ -1,6 +1,7 @@
 box: node:8
 build:
   steps:
+    - npm-install
     - script:
       name: Lint code
       code: ./node_modules/.bin/eslint index.js
