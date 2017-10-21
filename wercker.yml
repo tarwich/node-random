@@ -1,0 +1,4 @@
+build:
+  steps:
+    name: Lint code
+    code: ./node_modules/.bin/eslint index.js
